@@ -2,7 +2,7 @@ services:
   db:
     image: dollysarmiento2024/bbdd_cine:v1
     container_name: contenedor_bbdd_cine
-    environment:
+    #environment:
       #MYSQL_ROOT_PASSWORD: fernanda
       #MYSQL_DATABASE: cine
       #MYSQL_USER: fernanda
